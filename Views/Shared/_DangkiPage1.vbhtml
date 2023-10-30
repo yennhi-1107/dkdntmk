@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width" />
     <title>@ViewData("Title")</title>
     <meta charset="utf-8" />
-    <link rel="stylesheet" type="text/css" href="~/Content/Style.css" >
+    <link href="~/Content/Style.css" rel="stylesheet" />
     <title>Đăng kí</title>
 </head>
 <body>
